@@ -1,0 +1,1 @@
+/home/tomabot/AndroidStudioProjects/PerPixelLighting/PerPixelLighting/app/build/intermediates/classes/debug

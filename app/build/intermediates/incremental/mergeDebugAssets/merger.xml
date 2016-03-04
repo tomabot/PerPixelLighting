@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="X:\PerPixelLighting\PerPixelLighting\app\src\main\assets"><file name="FragmentShader.shd" path="X:\PerPixelLighting\PerPixelLighting\app\src\main\assets\FragmentShader.shd"/><file name="VertexShader.shd" path="X:\PerPixelLighting\PerPixelLighting\app\src\main\assets\VertexShader.shd"/></source></dataSet><dataSet config="debug"><source path="X:\PerPixelLighting\PerPixelLighting\app\src\debug\assets"/></dataSet></merger>
